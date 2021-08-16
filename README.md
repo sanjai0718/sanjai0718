@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sanjai0718
 - 👀 I’m interested in Programming or Coding
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me You can reach me by Instagram
 
 <!---
